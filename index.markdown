@@ -9,4 +9,3 @@ layout: default
 
 [Privacy Policy](privacypolicy.md)
 
-[How to delete your account](delete.md)
