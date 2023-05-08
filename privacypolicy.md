@@ -14,9 +14,11 @@ We may collect personal information such as your name, email address, or payment
 We use your personal information to provide you with personalized greeting cards and improve our app. We may also use your information to communicate with you about the app, promotions, or updates.
 
 **Sharing Your Information:**
+
 We do not sell or share your personal information with third parties, except for when necessary to provide the app or comply with legal obligations.
 
 **Security:**
+
 We use industry-standard measures to protect your personal information from unauthorized access, alteration, or destruction.
 
 **Third-party Services:**
