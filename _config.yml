@@ -21,10 +21,11 @@
 title: GreetGenius
 # email: support@GreetGenius.com
 description: >- # this means to ignore newlines until "baseurl:"
-  GreetGenius is a free-to-use crowdsourcing platform to get unbiased 
-  feedback on your photos from the public. Users can use this feedback to determine 
-  which photos to post to social media, dating, business or photography profiles for 
-  personal or marketing purposes.
+GreetGenius is a free app available on the Apple App Store that lets
+you create personalized greeting cards for any occasion with ease.
+With GreetGenius, you don't have to spend hours looking for the perfect 
+greeting card. The app uses AI to generate personalized greeting cards by asking 
+you a few questions about the type of card you are looking to create.
 # domain: greghamilton007.github.io
 # baseurl: /GreetGenius-web # the subpath of your site, e.g. /blog
 # url: greghamilton007.github.io # the base hostname & protocol for your site, e.g. http://example.com
