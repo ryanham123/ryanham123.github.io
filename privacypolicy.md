@@ -36,4 +36,4 @@ We may update this privacy policy from time to time, and we will notify you of a
 
 **Contact Us:**
 
-If you have any questions or concerns about this privacy policy, please contact us at [greetgenius-support@algoci.com](mailto:greetgenius-support@algoci.com).
+If you have any questions or concerns about this privacy policy, please contact us at [GreetGenius-support@algoci.com](mailto:GreetGenius-support@algoci.com).

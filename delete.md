@@ -3,7 +3,7 @@ layout: default
 ---
 # How to delete your account
 
-To delete your data from <em>greetgenius</em>, follow these steps:
+To delete your data from <em>GreetGenius</em>, follow these steps:
 
 ## 1. Navigate to the profile settings screen
 

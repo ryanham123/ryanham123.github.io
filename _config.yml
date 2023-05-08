@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: greetgenius
-# email: support@greetgenius.com
+title: GreetGenius
+# email: support@GreetGenius.com
 description: >- # this means to ignore newlines until "baseurl:"
-  greetgenius is a free-to-use crowdsourcing platform to get unbiased 
+  GreetGenius is a free-to-use crowdsourcing platform to get unbiased 
   feedback on your photos from the public. Users can use this feedback to determine 
   which photos to post to social media, dating, business or photography profiles for 
   personal or marketing purposes.
 # domain: greghamilton007.github.io
-# baseurl: /greetgenius-web # the subpath of your site, e.g. /blog
+# baseurl: /GreetGenius-web # the subpath of your site, e.g. /blog
 # url: greghamilton007.github.io # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: greetgenius
-# github_username:  greetgenius
+# twitter_username: GreetGenius
+# github_username:  GreetGenius
 logo: icon_reactsmall.jpeg
 show_downloads: false
 
