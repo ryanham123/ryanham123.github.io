@@ -37,7 +37,7 @@ We may terminate your access to the app at any time and for any reason, without 
 
 We may update these terms and conditions from time to time, and we will notify you of any material changes by posting a notice in the app or sending an email.
 
-**Governing** Law:**
+**Governing Law:**
 
 These terms and conditions are governed by the laws of Canada. Any disputes arising from your use of the app will be resolved in accordance with the dispute resolution provisions of Canada.
 Contact Us:
