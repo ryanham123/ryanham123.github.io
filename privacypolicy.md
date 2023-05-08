@@ -31,6 +31,7 @@ Our app may include third-party services such as payment processors, analytics t
 Our app is not directed to children under the age of 13, and we do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, please contact us immediately.
 
 **Changes to This Policy:**
+
 We may update this privacy policy from time to time, and we will notify you of any material changes by posting a notice in the app or sending an email.
 
 **Contact Us:**
