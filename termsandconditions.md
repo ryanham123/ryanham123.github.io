@@ -3,7 +3,7 @@ layout: default
 ---
 # Terms & Conditions
 
-Thank you for considering using GreetGenius, a free app designed to generate personalized greeting cards using AI. By downloading and using this app, you agree to these terms and conditions.
+Thank you for considering using GreetGenius, a  app designed to generate personalized greeting cards using AI. By downloading and using this app, you agree to these terms and conditions.
 
 **Use of the App:**
 

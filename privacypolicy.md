@@ -3,7 +3,7 @@ layout: default
 ---
 # Privacy Policy
 
-Thank you for considering using GreetGenius, a free app designed to generate personalized greeting cards using AI. Your privacy is important to us, and we are committed to protecting your personal information and complying with applicable privacy laws and regulations.
+Thank you for considering using GreetGenius, a app designed to generate personalized greeting cards using AI. Your privacy is important to us, and we are committed to protecting your personal information and complying with applicable privacy laws and regulations.
 
 **Information We Collect:**
 
