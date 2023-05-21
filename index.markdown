@@ -9,3 +9,5 @@ layout: default
 
 [Privacy Policy](privacypolicy.md)
 
+[Tutorial Vidoes](help.md)
+
