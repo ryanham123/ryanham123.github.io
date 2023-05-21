@@ -5,7 +5,8 @@ layout: default
 
 **Intro to GreetGenius**
 
-[https://youtu.be/REgnHpILoSM]
+<a href="https://youtu.be/REgnHpILoSM"> Something </a>
+
 
 **How to Select a Cover Image**
 
