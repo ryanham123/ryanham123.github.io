@@ -9,11 +9,11 @@ layout: default
 
 **How to Select a Cover Image**
 
-[https://youtu.be/L-CyC6QBf6s]
+[https://youtu.be/L-CyC6QBf6s](https://youtu.be/L-CyC6QBf6s)
 
 **How to Type Your Own Card**
 
-[https://youtu.be/QvEg-mRNtlk]
+[https://youtu.be/QvEg-mRNtlk](https://youtu.be/QvEg-mRNtlk)
 
 
 **Contact Us:**
