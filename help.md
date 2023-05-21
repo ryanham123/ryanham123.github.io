@@ -16,6 +16,7 @@ layout: default
 [https://youtu.be/QvEg-mRNtlk](https://youtu.be/QvEg-mRNtlk)
 
 
-**Contact Us :**
+**Contact Us:**
 
-If you have any questions or concerns, please contact us at [GreetGenius-support@algoci.com](mailto:GreetGenius-support@algoci.com).
+If you have any questions or concerns, please contact us at: 
+[GreetGenius-support@algoci.com](mailto:GreetGenius-support@algoci.com).
